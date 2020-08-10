@@ -1,6 +1,6 @@
 {
-  "name": "rxjs-chat",
-  "version": "0.0.0",
+  "name": "rxjs-chat-client",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": " ./node_modules/@angular/cli/bin/ng",
@@ -44,5 +44,19 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpalala/rxjs-chat-client.git"
+  },
+  "keywords": [
+    "RXJS"
+  ],
+  "author": "Joe Palala",
+  "bugs": {
+    "url": "https://github.com/jpalala/rxjs-chat-client/issues"
+  },
+  "homepage": "https://github.com/jpalala/rxjs-chat-client#readme"
 }
